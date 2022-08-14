@@ -14,6 +14,7 @@ Live demo: https://phatjkk.github.io/tarot/
 
 # Tài nguyên
 Thư viện sử dụng: ReactJS, Vite,..
+
 Database: https://github.com/phatjkk/Tarot-Vietnamese-API
 
 
