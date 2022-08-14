@@ -22,7 +22,7 @@ function App() {
           <Route
             path="/"
             element={
-                <div className="App">
+                <div className="App w-full">
                   {isWelcome ? (
                     <Welcome clickKhamPha={clickKhamPha} />
                   ) : isViewResult ? (
